@@ -24,7 +24,7 @@ services:
   # Sub2API Application
   # ===========================================================================
   sub2api:
-    image: weishaw/sub2api:latest
+    image: crpi-zuf63hua4opmle0h.cn-guangzhou.personal.cr.aliyuncs.com/yuanjingboat/sub2api:1
     container_name: sub2api
     restart: unless-stopped
     ulimits:
